@@ -1,0 +1,21 @@
+.content {
+	text-decoration: none;
+	color: #4B0084;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content input {
+	background: lightGray;
+	color: #5D00FF;
+}
+
+.content input:hover{
+	background: #8CBFB6;
+	color: #5D00FF;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}

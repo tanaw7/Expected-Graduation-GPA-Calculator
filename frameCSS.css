@@ -1,0 +1,16 @@
+.content {
+	text-decoration: none;
+	color: #4B0084;
+}
+
+.content table{
+	border: 1pt;
+}
+
+#profiletb {
+	border: 1;	
+}
+
+#profiletb td:hover{
+	background: green;
+}
